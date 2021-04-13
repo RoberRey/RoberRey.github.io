@@ -1,6 +1,6 @@
 # Data Science portfolio by Roberto Rey
 This portfolio is composed by a compilation of data science projects regarding machine learning and data analysis. Datasets that are not public can be found [here](https://github.com/RoberRey/RoberRey.github.io/tree/main/Datasets).
-## Non Parametrics.
+## Non-parametric statistics.
 ### [KDA in Ovals](https://github.com/RoberRey/RoberRey.github.io/blob/main/Notebooks/KDA.md)
 Kernel Discriminant Analysis (KDA) is a nonlinear version of Linear Discriminant Analysis (LDA), both of them are well-known and widely used techniques for supervised feature extraction and dimensionality reduction. The Ovals dataset contains 3000 observations, it has 3 columns which are the X and Y coordinates and a label, the Ovals' name comes from the shape that these dots form. In this notebook we perform both approaches (including also QDA) and we compare their accuracy.
 ### [Kernel mean shift clustering in MNIST dataset](https://github.com/RoberRey/RoberRey.github.io/blob/main/Notebooks/KMS.md)
