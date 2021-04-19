@@ -2,7 +2,7 @@
 This portfolio is composed by a compilation of data science projects regarding machine learning and data analysis. Datasets that are not public can be found [here](https://github.com/RoberRey/RoberRey.github.io/tree/main/Datasets).
 ## Classification.
 ### [Titanic](https://github.com/RoberRey/RoberRey.github.io/blob/main/Notebooks/Titanic.ipynb)
-Machine Learning from Disaster is a knowledge competition on Kaggle for begginners. It is a binary classification problem about Titanic passengers where we predict if they survived. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
+Titanic is a knowledge competition on Kaggle for begginners. It is a binary classification problem about Titanic passengers where we predict if they survived. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
 ## Time Series.
 ### [ARIMA for Time Series Analysis](https://github.com/RoberRey/RoberRey.github.io/blob/main/Notebooks/ARIMA.md)
 ARIMA model acronym for "Autoregressive Integrated Moving Average" is a generalization of an autoregressive moving average model. These models are fitted to time series data to analyse it or to forecast future points in the series. In this notebook we analyze two datasets, the first dataset is the 'milk' dataset, it is about monthly milk production in pounds per cow in 20th century. The second dataset is composed by the price (dolars) of the Apple stocks starting in 1980 with a monthly update of the price.
